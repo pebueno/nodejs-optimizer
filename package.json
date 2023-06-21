@@ -1,7 +1,7 @@
 {
   "name": "nodejs-optimizer",
   "version": "1.0.0",
-  "description": "Node.js program to practice cache with Redis",
+  "description": "Program to optimize Node.js performance detecting Memory Leaks and High CPU Usage",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app",
