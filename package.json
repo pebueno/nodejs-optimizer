@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-optimizer",
+  "version": "1.0.0",
+  "description": "Node.js program to practice cache with Redis",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pebueno/nodejs-optimizer.git"
+  },
+  "keywords": [
+    "logging",
+    "generating",
+    "node.js",
+    "javascript"
+  ],
+  "author": "Pedro Ivo Bueno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pebueno/nodejs-optimizer/issues"
+  },
+  "homepage": "https://github.com/pebueno/nodejs-optimizer#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
