@@ -1,1 +1,3 @@
 node_modules/
+worker_threads.heapsnapshot
+main.heapsnapshot
